@@ -1,0 +1,12 @@
+00.txt - 1912
+00ne_revised.txt - 1892
+00ne_pos.txt - 1917
+
+
+01.txt - 1954
+01ne_revised.txt - 1940
+01ne_pos.txt - 1948
+
+02.txt - 458
+02ne_revised.txt - 456
+02ne_pos.txt - 426
